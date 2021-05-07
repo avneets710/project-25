@@ -1,2 +1,1 @@
-# project-25
-game
+# CP-2
